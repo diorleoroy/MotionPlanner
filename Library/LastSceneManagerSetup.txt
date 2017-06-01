@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/motion_planning.unity
+  isLoaded: 1
+  isActive: 1
